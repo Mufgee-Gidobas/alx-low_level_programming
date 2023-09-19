@@ -1,1 +1,0 @@
-README.md file for pointers, arrays and strings project
